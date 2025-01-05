@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>imgs/close-black.svg</file>
+        <file>imgs/close-white.svg</file>
+        <file>imgs/proxy-black.svg</file>
+        <file>imgs/QQ-black.svg</file>
+        <file>imgs/LogosCPlusplus.svg</file>
+    </qresource>
+</RCC>
